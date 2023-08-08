@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Sidebar = () => {
+const Error = () => {
     return (
-        <div>Sidebar</div>
+        <div>Error</div>
     );
 }
 
-export default Sidebar;
+export default Error;

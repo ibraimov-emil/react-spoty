@@ -1,9 +1,9 @@
 import React from 'react'
 
-const TopArtists = () => {
+const TopCharts = () => {
   return (
-    <div>TopArtists</div>
+    <div>TopCharts</div>
   )
 }
 
-export default TopArtists;
+export default TopCharts;

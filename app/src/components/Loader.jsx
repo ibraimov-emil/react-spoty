@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Sidebar = () => {
+const Loader = () => {
     return (
-        <div>Sidebar</div>
+        <div>Loader</div>
     );
 }
 
-export default Sidebar;
+export default Loader;

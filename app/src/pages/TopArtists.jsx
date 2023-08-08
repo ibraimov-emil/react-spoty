@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Discover = () => {
+const TopArtists = () => {
   return (
-    <div>Discover</div>
+    <div>TopArtists</div>
   )
 }
 
-export default Discover;
+export default TopArtists;
